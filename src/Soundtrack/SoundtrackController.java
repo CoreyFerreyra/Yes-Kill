@@ -29,7 +29,7 @@ public class SoundtrackController {
 		
 		switch (i) {
 		case 1:
-			audioFile = new File("src\\Soundtrack\\Battle Theme Regular.wav");
+			audioFile = new File("src\\Soundtrack\\battlenormal.wav");
 			audioStream = AudioSystem.getAudioInputStream(audioFile);
 			try {
 				clip = AudioSystem.getClip();
@@ -49,7 +49,7 @@ public class SoundtrackController {
 			clip.start();
 			break;
 		case 2:
-			audioFile = new File("src/Soundtrack/Kitsune Battle Theme.wav");
+			audioFile = new File("src/Soundtrack/kitsuneboss.wav");
 			audioStream = AudioSystem.getAudioInputStream(audioFile);
 			try {
 				clip = AudioSystem.getClip();
