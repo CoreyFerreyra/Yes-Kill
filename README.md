@@ -5,4 +5,4 @@ You and your companions have been chosen to take part in a game show titled "Yes
 
 With your life in jeopardy, and the wheel of fortune spinning towards an unfortunate fate, will you press your luck and achieve victory?
 
-The soundtrack is not included. The files will go in "Soundtrack," as "Battle Theme Regular.wav" and "Kitsune Battle Theme.wav"
+The soundtrack is not included. The files will go in "Soundtrack," as "battlenormal.wav" and "kitsuneboss.wav"
